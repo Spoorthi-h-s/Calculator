@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(163, 117, 174);
+}
+.center{
+    text-align: center;
+    
+}
+
+.container{
+    background-color: blueviolet;
+    max-width: 300px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 5px 5px rgb(245, 233, 240);
+}
+.button{
+    padding: 20px;
+    width: 70px;
+    height: 50px;
+    border: 2px solid black  ;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.row{
+    margin-top: 10px;
+}
+
+.row input{
+    width: 91%;
+    padding: 8px ;
+    border: 2px solid rgb(169, 5, 188);
+    font-size: 23px;
+}
